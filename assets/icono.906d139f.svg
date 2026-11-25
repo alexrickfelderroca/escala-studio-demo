@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<defs>
+<radialGradient id="f" cx="50%" cy="46%" r="62%"><stop offset="0" stop-color="#0b1d4a"/><stop offset="1" stop-color="#050811"/></radialGradient>
+<radialGradient id="h" cx="46.39" cy="31.36" r="17.3" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1983fb" stop-opacity=".55"/><stop offset="1" stop-color="#1983fb" stop-opacity="0"/></radialGradient>
+<linearGradient id="s" x1="37.28" y1="22.25" x2="55.5" y2="40.47" gradientUnits="userSpaceOnUse"><stop offset=".2" stop-color="#abdbfe"/><stop offset=".8" stop-color="#42a3fd"/></linearGradient>
+</defs>
+<rect width="64" height="64" rx="14.08" fill="url(#f)"/>
+<rect width="64" height="64" rx="14.08" fill="url(#h)"/>
+<path fill="#abdbfe" d="M35.42 34.46A13.66 13.66 0 1 0 33.81 38.83L25.43 38.83A7.65 7.65 0 0 1 14.74 34.46ZM14.74 29.54A7.65 7.65 0 0 1 29.23 29.54Z"/>
+<path fill="url(#s)" d="M46.39 22.25C47.03 27.19 50.56 30.72 55.5 31.36C50.56 32 47.03 35.53 46.39 40.47C45.75 35.53 42.22 32 37.28 31.36C42.22 30.72 45.75 27.19 46.39 22.25Z"/>
+</svg>
