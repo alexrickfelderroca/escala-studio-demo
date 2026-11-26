@@ -1,1 +1,0 @@
-(function(){var s=document.documentElement;s.classList.add("has-js");try{navigator.connection&&navigator.connection.saveData&&s.classList.add("ahorro")}catch{}window.setTimeout(function(){s.classList.contains("js-listo")||s.classList.remove("has-js")},4e3)})();
